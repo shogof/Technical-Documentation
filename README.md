@@ -6,9 +6,7 @@
 
 ## Demo 📸
 
-Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
-
-![Demo](https://via.placeholder.com/600x300)
+![Demo](http://Documentation Page/600x300)
 
 ## Technologies Used 🛠️
 
@@ -48,7 +46,6 @@ To use this project, follow these steps:
 
 6. **Share and contribute:**
    If you find this project helpful, consider sharing it with others. You can also contribute to the project by submitting bug reports, feature requests, or pull requests to improve it for everyone.
-
 
 ## Author 👩‍💻
 
