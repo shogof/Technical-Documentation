@@ -21,6 +21,11 @@ img {
   height: 130px;
   color: #fff;
   padding: 20px 10px 30px 40px;
+  font-size: 16px;
+}
+
+.main-section p {
+  margin-bottom: 5px;
 }
 
 #firstHeader h1 {
@@ -33,7 +38,7 @@ img {
   margin-bottom: 5px;
 }
 
-#secondHeader{
+#secondHeader {
   text-align: center;
   font-size: 1px;
 }
@@ -121,10 +126,6 @@ nav li:hover {
   margin-bottom: 8px;
 }
 
-.main-section p{
-  margin-bottom: 5px;
-}
-
 #main-doc {
   margin-top: 30px;
   width: 75%;
@@ -202,6 +203,3 @@ nav li:hover {
   }
 }
 
-#firstHeader{
-  font-size: 16px;
-}
