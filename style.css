@@ -79,7 +79,7 @@ ul {
 }
 
 li {
-  margin-bottom: 10px;
+  margin: 10px 0;
   border: 1px solid #483d8b;
   padding: 10px 20px;
   background-color: #e6e6fa;

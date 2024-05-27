@@ -4,14 +4,6 @@
 
 > 🌟 Welcome to my Technical Documentation repository! Crafted with enthusiasm, it showcases HTML/CSS fundamentals. Dive into the world of technical documentation and explore web development intricacies through code. Your engagement enriches our learning experience. Let's embark on this coding adventure! 💻🎉
 
-```html
-<!-- Include code snippets or examples to demonstrate your project. -->
-```
-
-```css
-/* You can also include CSS code snippets. */
-```
-
 ## Demo 📸
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
@@ -57,19 +49,9 @@ To use this project, follow these steps:
 6. **Share and contribute:**
    If you find this project helpful, consider sharing it with others. You can also contribute to the project by submitting bug reports, feature requests, or pull requests to improve it for everyone.
 
-## Features ⭐
-
-List the key features of your project. Highlight any unique or noteworthy functionalities.
-
-Examples:
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Author 👩‍💻
 
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
 - LinkedIn: [Shegofa Developer](www.linkedin.com/in/shegofa-developer-aa362030b)
 - Email: (shogofadeveloper12@gmail.com)
 
