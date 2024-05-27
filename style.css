@@ -131,13 +131,9 @@ li:hover {
   margin-top: 10px;
   font-size: 14px;
 }
-#h11 {
-  font-size: 30px;
-  margin: 0;
-  color: white;
-}
+
 #main-section td h1 {
-  font-size: 30px;
+  font-size: 25px;
   margin: 0;
   font-weight: 500;
 }
@@ -146,7 +142,7 @@ li:hover {
   width: 130px;
   height: 35px;
   margin-left: 90px;
-  margin-top: 20px;
+  margin-top: 32px;
   text-decoration: none;
   color: black;
   display: inline-block;
