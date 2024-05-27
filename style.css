@@ -1,0 +1,21 @@
+body {
+  background-color: #f5f5dc;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+#firstHeader {
+  background-color: #8b4513;
+  margin: 0;
+  width: 100%;
+  height: 130px;
+  color: #fff;
+  padding: 20px 10px 30px 10px;
+}
+
+#firstHeader h1,
+#firstHeader p {
+  margin: 0 0 15px 30px;
+}
