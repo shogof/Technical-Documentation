@@ -6,7 +6,7 @@
 
 ## Demo 📸
 
-![Demo](http://Documentation Page/600x300)
+![Demo](https://media.giphy.com/media/CoGKO2FB8iZPJgC76W/giphy.gif)
 
 ## Technologies Used 🛠️
 
