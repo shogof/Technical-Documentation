@@ -13,6 +13,7 @@ img {
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
+
 #firstHeader {
   background-color: #483d8b;
   margin: 0;
@@ -30,6 +31,7 @@ img {
 #firstHeader p {
   font-size: 20px;
 }
+
 #secondHeader table {
   width: 100%;
   height: 100px;
@@ -39,6 +41,7 @@ img {
 #secondHeader tr {
   text-align: center;
 }
+
 #secondHeader td {
   width: 22%;
   height: 50%;
@@ -83,9 +86,6 @@ li {
 li:hover {
   color: white;
   font-size: 18px;
-  font-weight: 500;
-  transition: 3sec all;
-  color: white;
   border-radius: 15px;
   font-weight: bold;
 }
@@ -99,7 +99,6 @@ li:hover {
   margin-top: 50px;
   width: 75%;
   margin-left: 23%;
-  /* display: inline-block; */
   background-color: #483d8b;
   padding: 50px;
   height: 520px;
@@ -113,12 +112,12 @@ li:hover {
 #main-section tr {
   text-align: center;
 }
+
 #main-section td {
   width: 30%;
   height: 180px;
   margin: 12px;
   display: inline-block;
-  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
   background-color: #fff;
   padding: 10px;
   box-sizing: border-box;
