@@ -4,6 +4,8 @@
 
 > 🌟 Welcome to my Technical Documentation repository! Crafted with enthusiasm, it showcases HTML/CSS fundamentals. Dive into the world of technical documentation and explore web development intricacies through code. Your engagement enriches our learning experience. Let's embark on this coding adventure! 💻🎉
 
+## [live](https://shogof.github.io/Technical-Documentation/)
+
 ## Demo 📸
 
 ![Demo](https://media.giphy.com/media/CoGKO2FB8iZPJgC76W/giphy.gif)
